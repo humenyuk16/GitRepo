@@ -1,5 +1,5 @@
 Pizza
 Burger
-Cake
+Pure
 Salad
 Ice Cream
